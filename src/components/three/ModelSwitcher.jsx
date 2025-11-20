@@ -6,7 +6,7 @@ import {MacBookModel16} from "../models/Macbook-16.jsx";
 import {MacBookModel14} from "../models/Macbook-14.jsx";
 
 const ANIMATION_DURATION = 1;
-const OFFSET_DISTANCE = 10;
+const OFFSET_DISTANCE = 5;
 
 const fadeMeshes = (group, opacity) => {
     if (!group) return;
