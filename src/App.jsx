@@ -20,7 +20,7 @@ function App() {
             <ProductViewer />
             <ShowCase />
             <Performance />
-            {/*<Features />*/}
+            <Features />
             {/*<HighLights />*/}
             {/*<Footer />*/}
         </main>
