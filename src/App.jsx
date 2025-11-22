@@ -21,8 +21,8 @@ function App() {
             <ShowCase />
             <Performance />
             <Features />
-            {/*<HighLights />*/}
-            {/*<Footer />*/}
+            <HighLights />
+            <Footer />
         </main>
     );
 }
